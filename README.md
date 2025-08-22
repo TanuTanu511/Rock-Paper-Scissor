@@ -1,2 +1,2 @@
-<h1>This is my first HTML & CSS Project.</h1><br/>
-This is a very intersesting game.
+<h1>This is my first Frontend Project.</h1><br/>
+This is a very intersesting game where I'm using HTML , CSS & JS.
